@@ -13,7 +13,7 @@ npm start
 ## Stack Trace
 
 ```
-TypeError: Cannot convert undefined or null to object
+Uncaught (in promise) TypeError: Cannot convert undefined or null to object (populate-access-token.js:9)
     at Function.assign (<anonymous>)
     at Object.<anonymous> (populate-access-token.js:9)
     at promise.then.hookObject (hooks.js:142)
